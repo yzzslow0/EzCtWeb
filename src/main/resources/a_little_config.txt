@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://localhost/ezct?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password =yzz12315
+devMode = true
